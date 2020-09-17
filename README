@@ -1,0 +1,6 @@
+This is a fun project , changing a simple analog clock into a RGB LED ring clock, taking the time from the NTP client through nodemcu and after changing the 
+time with the local time we are then lighting up the RING Leds as desired.
+here,
+3 RED LEDs is the HOUR-hand
+GREEN LED is the minute-hand
+BLUE LED is the second-hand
